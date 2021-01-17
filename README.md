@@ -2,13 +2,13 @@
 
 <!-- Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
+- 🤔 I’m looking for help with ... 
+- 💬 Ask me about ... -->
 
 - 🔭 I’m currently working on Senior Highschool
 - 🌱 I’m currently learning Bisnis and Programming
-- 💬 Ask me about ...
 - 📫 How to reach me: instagram - @_zidenalcena
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: trying calm like an indie songs
 
-<img src="https://github-readme-stats.vercel.app/api?username=zidenalcena&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=34495E">
+<img src="https://github-readme-stats.vercel.app/api?username=zidenalcena&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=95A5A6">
