@@ -1,7 +1,5 @@
 ### Hi there, i'm Muhammad Ziden Al Cena 👋
 
-<hr/>
-
 <!-- Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
