@@ -16,3 +16,6 @@
 
 <br/>
 
+### Connect with me:
+
+[<img align="left" alt="_zidenalcena | Instagram" width="22px" src"https://simpleicons.org/icons/instagram.svg" />][instagram]
