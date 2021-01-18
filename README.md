@@ -14,3 +14,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=zidenalcena&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0D1117">
 
 ### Connect with me:
+
+[<img align="left" alt="_zidenalcena | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />]
