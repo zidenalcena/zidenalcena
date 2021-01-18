@@ -1,5 +1,7 @@
 ### Hi there, i'm Muhammad Ziden Al Cena 👋
 
+<hr/>
+
 <!-- Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
@@ -11,4 +13,4 @@
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: trying calm like an indie songs
 
-<img src="https://github-readme-stats.vercel.app/api?username=zidenalcena&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=17202A">
+<img src="https://github-readme-stats.vercel.app/api?username=zidenalcena&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0D1117">
