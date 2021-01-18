@@ -26,5 +26,3 @@
 
 <img align="left" alt="_zidnealcena | Instagram" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"/>
 <img align="left" alt="_zidnealcena | Instagram" width="28px" src="https://res.cloudinary.com/eternitech/images/f_auto,q_auto/v1588246378/eternitech/CSS3/CSS3.png"/>
-<img align="left" alt="_zidnealcena | Instagram" width="28px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png"/>
-<img align="left" alt="_zidnealcena | Instagram" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"/>
