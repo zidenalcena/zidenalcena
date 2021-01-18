@@ -15,6 +15,11 @@
 
 ### Connect with me:
 
-<img align="left" color="white" alt="_zidenalcena | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg"/>
-<img align="left" color="white" alt="_zidenalcena | Instagram" width="22px" src="https://simpleicons.org/icons/twitter.svg"/>
-<img align="left" color="white" alt="_zidnealcena | Instagram" width="22px" src="https://simpleicons.org/icons/whatsapp.svg"/>
+<img align="left" alt="_zidenalcena | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg"/>
+<img align="left" alt="_zidenalcena | Instagram" width="22px" src="https://simpleicons.org/icons/twitter.svg"/>
+<img align="left" alt="_zidnealcena | Instagram" width="22px" src="https://simpleicons.org/icons/whatsapp.svg"/>
+<img align="left" alt="_zidnealcena | Instagram" width="22px" src="https://simpleicons.org/icons/gmail.svg"/>
+
+### Languages and Tools:
+
+<img align="left" alt="_zidnealcena | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"/>
