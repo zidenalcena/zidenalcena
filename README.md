@@ -4,12 +4,11 @@
 <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <a href="https://twitter.com/zidenalcena?s=09">
-<img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/zidenalcena?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
 
 <br>
 
 ## I'm a Student, Big Brother, and Web-Developer!
-<hr>
 
 <!-- Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
@@ -22,17 +21,9 @@
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: I always listening indie's song when i do my coding
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/zidenalcena?style=social">
-
 <img src="https://github-readme-stats.vercel.app/api?username=zidenalcena&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0D1117">
 
 ### Connect with me:
-
-<a href="https://www.instagram.com/_zidenalcena/">
-<img align="left" alt="_zidenalcena | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg"/></a>
-
-<a href="https://twitter.com/zidenalcena?s=09">
-<img align="left" alt="_zidenalcena | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg"/></a>
 
 <a href="https://api.whatsapp.com/send?phone=6281336872117">
 <img align="left" alt="_zidnealcena | Whatsapp" width="22px" src="https://simpleicons.org/icons/whatsapp.svg"/></a>
