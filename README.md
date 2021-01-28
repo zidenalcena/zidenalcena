@@ -24,6 +24,9 @@
 <a href="https://api.whatsapp.com/send?phone=6281336872117">
 <img align="left" alt="_zidnealcena | Whatsapp" width="22px" src="https://simpleicons.org/icons/whatsapp.svg"/></a>
 
+<a href="https://www.linkedin.com/in/zidane-al-cena-098b79192/">
+<img align="left" alt="_zidenalcena | Linkedin" width="22px" src="https://simpleicons.org/icons/linkedin.svg">
+
 <a href="https://mail.google.com/">
 <img align="left" alt="_zidnealcena | Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg"/></a>
 
