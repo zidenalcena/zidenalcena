@@ -25,7 +25,7 @@
 <img align="left" alt="_zidnealcena | Whatsapp" width="22px" src="https://simpleicons.org/icons/whatsapp.svg"/></a>
 
 <a href="https://www.linkedin.com/in/zidane-al-cena-098b79192/">
-<img align="left" alt="_zidenalcena | Linkedin" width="22px" src="https://simpleicons.org/icons/linkedin.svg">
+<img align="left" alt="_zidenalcena | Linkedin" width="22px" src="https://simpleicons.org/icons/linkedin.svg"></a>
 
 <a href="https://mail.google.com/">
 <img align="left" alt="_zidnealcena | Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg"/></a>
@@ -34,5 +34,5 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="_zidnealcena | Instagram" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"/>
-<img align="left" alt="_zidnealcena | Instagram" width="20px" src="https://res.cloudinary.com/eternitech/images/f_auto,q_auto/v1588246378/eternitech/CSS3/CSS3.png"/>
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
