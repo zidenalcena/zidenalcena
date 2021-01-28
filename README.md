@@ -1,15 +1,28 @@
 ### Hi there, i'm Muhammad Ziden Al Cena 👋
 
+<a href="https://www.instagram.com/_zidenalcena/">
+<img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+<a href="https://twitter.com/zidenalcena?s=09">
+<img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
+<br>
+
+## I'm a Student, Big Brother, and Web-Developer!
+<hr>
+
 <!-- Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...  -->
 
-- 🔭 I’m currently working on Senior Highschool
+- 🔭 I’m currently working on Senior High School
 - 🌱 I’m currently learning Bisnis and Programming
 - 📫 How to reach me: instagram - @_zidenalcena
 - 😄 Pronouns: He / His
-- ⚡ Fun fact: trying calm like an indie songs
+- ⚡ Fun fact: I always listening indie's song when i do my coding
+
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/zidenalcena?style=social">
 
 <img src="https://github-readme-stats.vercel.app/api?username=zidenalcena&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0D1117">
 
@@ -27,7 +40,7 @@
 <a href="https://www.linkedin.com/in/zidane-al-cena-098b79192/">
 <img align="left" alt="_zidenalcena | Linkedin" width="22px" src="https://simpleicons.org/icons/linkedin.svg"></a>
 
-<a href="https://mail.google.com/">
+<a href="mailto:alcenaziden@gmail.com">
 <img align="left" alt="_zidnealcena | Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg"/></a>
 
 <br/>
