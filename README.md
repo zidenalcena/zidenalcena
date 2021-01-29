@@ -34,6 +34,9 @@
 <a href="mailto:alcenaziden@gmail.com">
 <img align="left" alt="_zidnealcena | Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg"/></a>
 
+<a href="https://t.me/alcenaa">
+<img align="left" alt="_zidenalcena | Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg"/></a>
+
 <br/>
 
 ### Languages and Tools:
