@@ -1,10 +1,10 @@
 ### Hi there, i'm Muhammad Ziden Al Cena 👋
 
 <a href="https://www.instagram.com/_zidenalcena/">
-<img align="left" src="https://img.shields.io/badge/FOLLOW_@zidenalcena-1.1k-E4405F?logo=instagram&style=for-the-badge" /></a>
+<img src="https://img.shields.io/badge/FOLLOW_@zidenalcena-1.1k-E4405F?logo=instagram&style=for-the-badge" /></a>
 
 <a href="https://twitter.com/zidenalcena?s=09">
-<img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/zidenalcena?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/zidenalcena?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
 
 <br>
 
