@@ -7,7 +7,7 @@
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/zidenalcena?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
 
 <br>
-
+ 
 ## I'm a Student, and Developer!
 
 <!-- Here are some ideas to get you started:
