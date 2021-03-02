@@ -15,7 +15,7 @@
 - 🤔 I’m looking for help with ... 
 - 📫 How to reach me: Gmail - alcenaziden@gmail.com
 - 💬 Ask me about ...  -->
-
+ 
 - 🔭 I’m currently working on Senior High School
 - 🌱 I’m currently learning Business and Programming
 - 😄 Pronouns: He / His
