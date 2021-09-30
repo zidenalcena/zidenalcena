@@ -14,12 +14,14 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
 - 📫 How to reach me: Gmail - alcenaziden@gmail.com
-- 💬 Ask me about ...  -->
-
-- 🔭 I’m currently working on Senior High School
+- 💬 Ask me about ...  
 - 🌱 I’m currently learning Business and Programming
+- ⚡ Fun fact: I always listening indie's song when i do my coding -->
+
+- 🔭 I’m currently working on Company
+- 💬 Ask me about Programming and New Technologies
 - 😄 Pronouns: He / His
-- ⚡ Fun fact: I always listening indie's song when i do my coding
+
 <div> 
 <img src="https://github-readme-stats.vercel.app/api?username=zidenalcena&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0D1117" width="360">
  
