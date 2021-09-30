@@ -20,8 +20,11 @@
 - 🌱 I’m currently learning Business and Programming
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: I always listening indie's song when i do my coding
-
-<img src="https://github-readme-stats.vercel.app/api?username=zidenalcena&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0D1117">
+<div> 
+<img src="https://github-readme-stats.vercel.app/api?username=zidenalcena&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0D1117" width="360">
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidenalcena&layout=compact&bg_color=0D1117&text_color=daf7dc">
+</div>
 
 ### Connect with me:
 
