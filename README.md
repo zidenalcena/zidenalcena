@@ -25,7 +25,7 @@
 <div> 
 <img src="https://github-readme-stats.vercel.app/api?username=zidenalcena&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0D1117" width="360">
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidenalcena&layout=compact&bg_color=0D1117&text_color=daf7dc">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidenalcena&layout=compact&bg_color=0D1117&text_color=daf7dc" width="300">
 </div>
 
 ### Connect with me:
