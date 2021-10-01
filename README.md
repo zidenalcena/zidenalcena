@@ -1,4 +1,4 @@
-### Hi there, i'm Muhammad Ziden Al Cena 👋
+### Hi there, i'm Muhamad Ziden Al Cena 👋
 
 <a href="https://www.instagram.com/_zidenalcena/">
 <img src="https://img.shields.io/badge/FOLLOW_@zidenalcena-1.1k-E4405F?logo=instagram&style=for-the-badge" /></a>
