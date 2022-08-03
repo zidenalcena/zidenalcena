@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning Business and Programming
 - ⚡ Fun fact: I always listening indie's song when i do my coding -->
 
-- 🔭 I’m currently working on Company
+- 🔭 I’m currently looking for Job
 - 💬 Ask me about Programming and New Technologies
 - 😄 Pronouns: He / His
 
