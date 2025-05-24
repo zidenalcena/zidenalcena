@@ -1,8 +1,8 @@
 <p align="center"><a href="https://github.com/zidenalcena" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" /></a></p>
 
 # 💫 About Me:
-👋 Hello, I'm Muhamad Zidane Al Cena<br>💻 Passionate Full-Stack Developer | Cyber Security
-
+🎓 I'm a university gradute of Computer Science student at POLIJE (State Polytechnic of Jember). <br />
+💻 Passionate Full-Stack Developer | Cyber Security. <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_zidenalcena) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zidenalcena) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alcenaziden) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alcenaziden@gmail.com) 
