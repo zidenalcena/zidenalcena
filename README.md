@@ -1,60 +1,17 @@
-### Hi there, i'm Muhamad Ziden Al Cena 👋
+<p align="center"><a href="https://github.com/zidenalcena" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" /></a></p>
 
-<a href="https://www.instagram.com/_zidenalcena/">
-<img src="https://img.shields.io/badge/FOLLOW_@zidenalcena-1.1k-E4405F?logo=instagram&style=for-the-badge" /></a>
+# 💫 About Me:
+👋 Hello, I'm Muhamad Zidane Al Cena<br>💻 Passionate Full-Stack Developer | Cyber Security
 
-<a href="https://twitter.com/zidenalcena?s=09">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/zidenalcena?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
 
-<br>
- 
-## I'm a Student, and Developer!
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_zidenalcena) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zidenalcena) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alcenaziden) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alcenaziden@gmail.com) 
 
-<!-- Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... 
-- 📫 How to reach me: Gmail - alcenaziden@gmail.com
-- 💬 Ask me about ...  
-- 🌱 I’m currently learning Business and Programming
-- ⚡ Fun fact: I always listening indie's song when i do my coding -->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
 
-- 🔭 I’m currently looking for Job
-- 💬 Ask me about Programming and New Technologies
-- 😄 Pronouns: He / His
+| <a target="_blank" href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=zidenalcena&theme=buefy&hide_border=true&count_private=true&show_icons=true&include_all_commits=true%22%20" /></a> | <a href="" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaaSun&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<div> 
-<img src="https://github-readme-stats.vercel.app/api?username=zidenalcena&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0D1117" width="360">
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidenalcena&layout=compact&bg_color=0D1117&text_color=daf7dc" width="300">
-</div>
-
-### Connect with me:
-
-<a href="https://api.whatsapp.com/send?phone=6281336872117">
-<img align="left" alt="_zidnealcena | Whatsapp" width="22px" src="https://simpleicons.org/icons/whatsapp.svg"/></a>
-
-<a href="https://www.linkedin.com/in/zidenalcena/">
-<img align="left" alt="_zidenalcena | Linkedin" width="22px" src="https://simpleicons.org/icons/linkedin.svg"></a>
-
-<a href="mailto:alcenaziden@gmail.com">
-<img align="left" alt="_zidnealcena | Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg"/></a>
-
-<a href="https://t.me/alcenaa">
-<img align="left" alt="_zidenalcena | Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg"/></a>
-
-<br/>
- 
-### Languages and Tools:
- 
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img align="" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img alt="jessice view count" width="20%" src="https://komarev.com/ghpvc/?username=zidenalcena&color=lightgrey&style=for-the-badge" />
