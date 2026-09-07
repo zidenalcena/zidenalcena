@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="45%" />
 
-# Hi, I'm Ziden 👋
+# Hi, I'm Zidane 👋
 
 **Full-Stack Developer · Cybersecurity Enthusiast**
 
@@ -24,7 +24,7 @@ from frontend and backend architecture to infrastructure and security.
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science graduate from **Politeknik Negeri Jember (POLIJE)**  
+🎓 Computer Science student from **南京信息工程大学 (NUIST)**  
 💻 Full-Stack Web Development · 🔐 Cybersecurity & Penetration Testing  
 🧠 Software Architecture & Backend Engineering
 
