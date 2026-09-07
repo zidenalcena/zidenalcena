@@ -1,18 +1,85 @@
-<p align="center"><a href="https://github.com/zidenalcena" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" /></a></p>
+<div align="center">
 
-# 💫 About Me:
-🎓 I'm a university gradute of Computer Science student at POLIJE (State Polytechnic of Jember). <br />
-💻 Passionate Full-Stack Developer | Cyber Security. <br>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="45%" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_zidenalcena) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zidenalcena) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alcenaziden) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alcenaziden@gmail.com) 
+# Hi, I'm Ziden 👋
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
+### Full-Stack Developer · Cybersecurity Enthusiast
 
-| <a target="_blank" href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=zidenalcena&theme=buefy&hide_border=true&count_private=true&show_icons=true&include_all_commits=true%22%20" /></a> | <a href="" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaaSun&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+Building practical web applications, exploring cybersecurity, and continuously learning how modern systems work — from frontend interfaces to backend architecture and infrastructure.
 
-<img alt="jessice view count" width="20%" src="https://komarev.com/ghpvc/?username=zidenalcena&color=lightgrey&style=for-the-badge" />
- 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ziden%20Al%20Cena-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/zidenalcena)
+[![Instagram](https://img.shields.io/badge/Instagram-@_zidenalcena-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/_zidenalcena)
+[![Medium](https://img.shields.io/badge/Medium-@alcenaziden-000000?style=flat-square\&logo=medium\&logoColor=white)](https://medium.com/@alcenaziden)
+[![Email](https://img.shields.io/badge/Email-alcenaziden%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:alcenaziden@gmail.com)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+* 🎓 Computer Science graduate from **Politeknik Negeri Jember (POLIJE)**
+* 💻 Focused on **Full-Stack Web Development**
+* 🔐 Interested in **Cybersecurity, Penetration Testing & System Security**
+* 🧠 Currently improving my skills in **software architecture, backend engineering, and security**
+* 🛠️ I enjoy building real-world applications and experimenting with new technologies
+* 📚 Always learning, breaking things, fixing them, and understanding how they work
+
+---
+
+## ⚡ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,ts,python,java,kotlin,powershell" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vue,react,nextjs" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+</p>
+
+### Tools & Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+I'm always open to discussing:
+
+**Web Development · Cybersecurity · Open Source · Software Engineering · Tech Projects**
+
+Feel free to connect with me on LinkedIn or reach out via email.
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=zidenalcena&label=Profile%20Views&color=grey&style=flat-square" />
+
+<br/><br/>
+
+### Thanks for visiting my profile 👋
+
+</div>
